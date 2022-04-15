@@ -1,14 +1,18 @@
 # Hi 👋, I’m <strong>Jonathan</strong>. I design and build; client, mobile and web applications.
 
+<p> <img align="right" width="50%" style="max-width:300px;" src="static/profile.png" alt="ojayjonathan" /></p>
 
 
-<p><img align="right" width="50%" src="static/profile.png" alt="ojayjonathan" /></p>
+Hi, I'm Onderi Jonathan, an ambitious and enthusiastic software developer and designer. Passionate on delivering awesome web and mobile solutions.
 
-- 🌱 I’m currently learning Web Development and other programming languages
+I'm a computer science student at Egerton University Kenya, who loves creativity, learning, growing and improving everyday. I am a constant learner and this helps me keep myself produtive and motivated. I also passionate with Machine Learning and Data Science.
 
-- 📫 How to reach me **jonathanonderi2018@yahoo.com**
+Specialized in Python, MySQL, Django,Flutter, ReactJs, Javascript, HTML and CSS.
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
+ 📫 How to reach me **jonathanonderi2018@yahoo.com**
+View [Portfolio](https://ojayjonathan.github.io/site/) website.
+
 
 <br>
 
@@ -81,18 +85,9 @@
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ojayjonathan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="ojayjonathan" 
-    bg_color=#808080/></p>
+    bg_color=#808080/>
+    </p>
 
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojayjonathan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="ojayjonathan" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojayjonathan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ojayjonathan" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 [ojayjonathan](https://github.com/ojayjonathan)
