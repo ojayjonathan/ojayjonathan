@@ -1,6 +1,6 @@
 # Hi 👋, I’m <strong>Jonathan</strong>. I design and build; client, mobile and web applications.
 
-<p> <img align="right" width="50%" style="max-width:300px;" src="static/profile.png" alt="ojayjonathan" /></p>
+<p> <img align="right"   src="static/profile.png" alt="ojayjonathan" /></p>
 
 
 Hi, I'm Onderi Jonathan, an ambitious and enthusiastic software developer and designer. Passionate on delivering awesome web and mobile solutions.
