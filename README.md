@@ -46,13 +46,13 @@ View [Portfolio](https://ojayjonathan.github.io/site/) website.
 </p>
 <br>
 
-<h3>Github Stats :</h3>
+<!-- <h3>Github Stats :</h3>
 <p align="center"><img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ojayjonathan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="ojayjonathan" 
     bg_color=#808080/>
     </p>
 
-<br>
+<br> -->
 
 [ojayjonathan](https://github.com/ojayjonathan)
