@@ -4,7 +4,7 @@
 
 Hi, I'm Onderi Jonathan, an ambitious and enthusiastic software developer and designer. Passionate on delivering awesome web and mobile solutions.
 
-I'm a computer science student at Egerton University Kenya, who loves creativity, learning, growing and improving everyday. I am a constant learner and this helps me keep myself produtive and motivated. I also passionate with Machine Learning and Data Science.
+I'm a computer science student at Egerton University Kenya, who loves learning and improving everyday. I am a constant learner, which keeps me produtive and motivated. I also passionate with Machine Learning and Data Science.
 
 Specialized in Python, MySQL, Django,Flutter, ReactJs, Javascript, HTML and CSS.
 
@@ -46,13 +46,6 @@ View [Portfolio](https://ojayjonathan.github.io/site/) website.
 </p>
 <br>
 
-<!-- <h3>Github Stats :</h3>
-<p align="center"><img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ojayjonathan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="ojayjonathan" 
-    bg_color=#808080/>
-    </p>
 
-<br> -->
 
 [ojayjonathan](https://github.com/ojayjonathan)
