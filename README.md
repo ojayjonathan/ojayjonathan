@@ -1,4 +1,4 @@
-# Hi 👋, I’m **Jonathan**. I design and build &mdash; client, mobile and web applications.
+# Hi 👋, I’m **Jonathan**. I design and build &mdash; mobile and web applications.
 
 <p> <img align="right"   src="static/profile.png" alt="ojayjonathan" /></p>
 
